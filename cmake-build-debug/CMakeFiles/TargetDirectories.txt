@@ -1,0 +1,4 @@
+/home/ilia/CLionProjects/lab_4/cmake-build-debug/CMakeFiles/Lab4.dir
+/home/ilia/CLionProjects/lab_4/cmake-build-debug/CMakeFiles/main.dir
+/home/ilia/CLionProjects/lab_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ilia/CLionProjects/lab_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
