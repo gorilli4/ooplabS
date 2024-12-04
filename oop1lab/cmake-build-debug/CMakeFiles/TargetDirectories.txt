@@ -1,0 +1,5 @@
+/home/ilia/CLionProjects/oop1lab/cmake-build-debug/CMakeFiles/oop1lab.dir
+/home/ilia/CLionProjects/oop1lab/cmake-build-debug/CMakeFiles/runTests.dir
+/home/ilia/CLionProjects/oop1lab/cmake-build-debug/CMakeFiles/test.dir
+/home/ilia/CLionProjects/oop1lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ilia/CLionProjects/oop1lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
